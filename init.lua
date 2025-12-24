@@ -1,5 +1,6 @@
 require("base")
 require("keymaps")
+require("filetypes")
 
 -- [[ Configure and install plugins ]]
 --
