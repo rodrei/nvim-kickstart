@@ -28,6 +28,7 @@ return { -- Highlight, edit, and navigate code
 			"javascript",
 			"ruby",
 			"go",
+			"yaml",
 		})
 
 		-- Per-language tweaks carried over from the old `master` config:
